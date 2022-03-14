@@ -16,6 +16,6 @@ Copper Cliff, Ontario, Canada.
 - sole proprietor @ [robinssoftware](https://robinssoftware.ca) (2022-current)
 
 ### active projects
-- lolasengine:
+- [lolasengine](https://github.com/RobinsSoftware/lolasengine):
   * game engine entirely written in C
   * in development - not ready for use
