@@ -1,13 +1,21 @@
+### contact
 <b>Lola Robins</b>
+<br>
 <[lola@robinssoftware.ca](mailto:lola@robinssoftware.ca)>
+<br>
 Copper Cliff, Ontario, Canada.
 
-#### acheivements
-- manufacturing shsm gr. 12 student @ lo-ellen park secondary school
-- first robotics challenge (frc) [team 4069](http://loellenrobotics.ca) programming lead 2022
-- sole proprietor of [robinssoftware](https://robinssoftware.ca)
+### about
+- primarily use java & C
+- experienced with spigot api
+- looking to learn about opengl & game engine design
 
-#### active projects
+### roles
+- manufacturing shsm student @ lo-ellen park secondary school (2018-2022)
+- programming lead @ [frc team 4069](http://loellenrobotics.ca) (2022)
+- sole proprietor @ [robinssoftware](https://robinssoftware.ca) (2022-current)
+
+### active projects
 - lolasengine:
   * game engine entirely written in C
   * in development - not ready for use
