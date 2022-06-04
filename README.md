@@ -19,3 +19,6 @@ Copper Cliff, Ontario, Canada.
 - [lolasengine](https://github.com/RobinsSoftware/lolasengine):
   * game engine entirely written in C
   * in development - not ready for use
+- [cmine](https://github.com/RobinsSoftware/cmine):
+  * notchian minecraft server protocol clone in C
+  * motd and server icons working!
