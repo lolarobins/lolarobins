@@ -12,8 +12,9 @@ Copper Cliff, Ontario, Canada.
 
 ### roles
 - manufacturing shsm student @ lo-ellen park secondary school (2018-2022)
+- computer science student @ wilfred laurier university (2022-2026)
 - programming lead @ [frc team 4069](http://loellenrobotics.ca) (2022)
-- sole proprietor @ [robinssoftware](https://robinssoftware.ca) (2022-current)
+- sole proprietor @ [robinssoftware](https://robinssoftware.ca)
 
 ### active projects
 - [lolasengine](https://github.com/RobinsSoftware/lolasengine):
