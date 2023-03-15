@@ -1,3 +1,3 @@
 # worlds #1 bladee fan <3
 
-![bladee](https://media.tenor.com/yMaeD9mGNCAAAAAd/bladee-drain-gang.gif)
+![bladee](https://static.wikia.nocookie.net/humans/images/3/35/Bladee.webp/revision/latest?cb=20210713203227)
