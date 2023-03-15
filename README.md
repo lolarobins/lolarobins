@@ -1,7 +1,1 @@
-### contact
-<b>Lola Robins</b>
-<br>
-<[lola@robinssoftware.ca](mailto:lola@robinssoftware.ca)>
-<br>
-Kitchener, ON
-<br>
+# worlds #1 bladee fan <3
